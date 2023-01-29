@@ -1,0 +1,13 @@
+{
+        "printWidth":100,
+        "tatwidth":2,
+        "useTabs":false,
+        "scmi":true,
+        "singleQuote":true,
+        "trallingComma":"es5",
+        "bracketSpacing":true,
+        "jsxBracketsSameline":false,
+        "arrowParens":"avoid",
+        "proseWrap":"always"
+
+}
